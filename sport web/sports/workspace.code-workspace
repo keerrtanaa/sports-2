@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\mario"
+		},
+		{
+			"path": "..\\ironman"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "sports"
+	}
+}
